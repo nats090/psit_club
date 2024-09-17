@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/psit_club/static/css/main.27b00c82.css",
+    "main.js": "/psit_club/static/js/main.857b7019.js",
+    "static/js/453.abb054f1.chunk.js": "/psit_club/static/js/453.abb054f1.chunk.js",
+    "index.html": "/psit_club/index.html",
+    "main.27b00c82.css.map": "/psit_club/static/css/main.27b00c82.css.map",
+    "main.857b7019.js.map": "/psit_club/static/js/main.857b7019.js.map",
+    "453.abb054f1.chunk.js.map": "/psit_club/static/js/453.abb054f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b00c82.css",
+    "static/js/main.857b7019.js"
+  ]
+}
